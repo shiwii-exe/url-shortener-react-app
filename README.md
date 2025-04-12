@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # url-shortener-react-app
 =======
 # React + Vite
@@ -14,3 +15,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> e01b006 (Initial commit)
+=======
+# url-shortener-react-app 
+>>>>>>> 24ecc90609b395e2406cb3cc5b951fe96cfc08dd
